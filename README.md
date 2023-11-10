@@ -1,4 +1,5 @@
 # Projeto-Boradepdf
+
 ## Objetivo do Projeto:
 
 O objetivo do meu projeto foi criar uma interface de front-end para um site relacionado a um aplicativo chamado "Boradepdf". Esse aplicativo tem a finalidade de funcionar como um guia de GPS da cidade, destacando localizações importantes para turismo e facilitando a localização de supermercados, atendendo às necessidades de visitantes que chegam à cidade vindos de outras regiões.
